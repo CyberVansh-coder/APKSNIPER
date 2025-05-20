@@ -46,7 +46,7 @@ chmod +x main.py
 ```
 python3 main.py
 ```
-## buy this tool ----->
+## buy this tool Key ----->
 
 ## Contact Us 
 ```
