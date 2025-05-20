@@ -2,6 +2,9 @@
 
 **APKSniper** is a professional-grade Android payload crypter and FUD (Fully Undetectable) tool designed to bypass Google Play Protect and other Android security layers. Developed for ethical hacking, research, and red teaming purposes.
 
+## Screenshot
+![Video Player Screenshot](Screenshot_20250521-001020_Video Player.jpg)
+
 > **Warning**: This tool is intended for educational and ethical penetration testing only. Misuse of this tool is strictly prohibited.
 
 ---
