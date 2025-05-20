@@ -33,18 +33,18 @@ cd APKSNIPER
 ```
 ```
 python3 -m venv venv
+```
+```
 source venv/bin/activate
 ```
 ```
 pip install pycryptodome
+```
+```
 chmod +x main.py
 ```
-## Run This Tool
 ```
 python3 main.py
-
-
-
 ```
 ## buy this tool ----->
 
