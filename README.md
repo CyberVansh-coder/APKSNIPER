@@ -25,13 +25,12 @@ git clone https://github.com/CyberVansh-coder/APKSNIPER.git
 cd APKSNIPER
 ```
 ```
-7z x -p(paid) APKSNIPER.zip
+7z x APKSNIPER.zip
 ```
 PASSWORD IS -------> (PAID)
 ```
 cd APKSNIPER
 ```
-## Create virtual environment
 ```
 python3 -m venv venv
 source venv/bin/activate
@@ -39,6 +38,9 @@ source venv/bin/activate
 ```
 pip install pycryptodome
 chmod +x main.py
+```
+## Run This Tool
+```
 python3 main.py
 
 
