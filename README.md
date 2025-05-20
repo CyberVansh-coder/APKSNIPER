@@ -25,7 +25,7 @@ git clone https://github.com/CyberVansh-coder/APKSNIPER.git
 cd APKSNIPER
 ```
 ```
-7z x APKSNIPER.zip
+7z x APKSNIPER.7z
 ```
 PASSWORD IS -------> (PAID)
 ```
