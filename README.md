@@ -3,7 +3,8 @@
 **APKSniper** is a professional-grade Android payload crypter and FUD (Fully Undetectable) tool designed to bypass Google Play Protect and other Android security layers. Developed for ethical hacking, research, and red teaming purposes.
 
 ## Screenshot
-![Video Player Screenshot](Screenshot_20250521-001020_Video Player.jpg)
+![AndroRAT](Screenshots/5.jpg "AndroRAT in action")
+## Features of AndroRAT 
 
 > **Warning**: This tool is intended for educational and ethical penetration testing only. Misuse of this tool is strictly prohibited.
 
