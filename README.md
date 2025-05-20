@@ -46,6 +46,10 @@ chmod +x main.py
 ```
 python3 main.py
 ```
+## One Cmd Installation 
+```
+git clone https://github.com/your-username/APKSNIPER.git && cd APKSNIPER && 7z x -p(PAID) APKSNIPER.7z && cd APKSNIPER && python3 -m venv venv && source venv/bin/activate && pip install pycryptodome && chmod +x main.py && python3 main.py
+```
 ## buy this tool Key ----->
 
 ## Contact Us 
