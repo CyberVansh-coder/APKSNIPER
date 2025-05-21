@@ -51,11 +51,6 @@ chmod +x main.py
 ```
 python3 main.py
 ```
-## One Cmd Installation 
-```
-git clone https://github.com/CyberVansh-coder/APKSNIPER.git && cd APKSNIPER && chmod +x install.sh && ./install.sh
-```
-
 ## Troubleshooting
 ![Video Player Screenshot](https://github.com/CyberVansh-coder/APKSNIPER/blob/834438dcc121054ec6aaff0ae2ddc8f83521353c/Screenshot_20250521-112651_Termux.jpg)
 ### ModuleNotFoundError: No module named 'modules.smali_injector'
