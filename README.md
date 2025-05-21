@@ -77,6 +77,16 @@ touch modules/__init__.py
 ```
 python3 main.py
 ```
+## This tool is tested on
+✅ Ubuntu
+✅ Linux Mint
+✅ Kali Linux
+✅ Fedora
+✅ Arch Linux
+✅ Parrot Security OS
+✅ Windows 11
+✅ Termux (Android)
+
 
 ## buy this tool Key ----->
 
