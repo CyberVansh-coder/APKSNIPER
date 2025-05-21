@@ -1,8 +1,7 @@
 #!/bin/bash
 
-echo "Cloning APKSniper repository..."
-git clone https://github.com/CyberVansh-coder/APKSNIPER.git
-cd APKSNIPER || { echo "Failed to enter directory."; exit 1; }
+echo "Navigating to APKSNIPER directory..."
+cd APKSNIPER || { echo "Directory 'APKSNIPER' not found."; exit 1; }
 
 echo "Extracting APKSNIPER.7z file..."
 if ! command -v 7z &> /dev/null
@@ -17,7 +16,7 @@ echo "Checking password..."
 echo "PASSWORD IS -------> (PAID)"
 echo "Enter password manually in 7z prompt."
 
-cd APKSNIPER || { echo "Failed to enter APKSNIPER directory."; exit 1; }
+cd APKSNIPER || { echo "Failed to enter inner APKSNIPER directory."; exit 1; }
 
 echo "Creating Python virtual environment..."
 python3 -m venv venv
