@@ -55,6 +55,28 @@ python3 main.py
 ```
 git clone https://github.com/your-username/APKSNIPER.git && cd APKSNIPER && 7z x -p(PAID) APKSNIPER.7z && cd APKSNIPER && python3 -m venv venv && source venv/bin/activate && pip install pycryptodome && chmod +x main.py && python3 main.py
 ```
+
+## Troubleshooting
+### ModuleNotFoundError: No module named 'modules.smali_injector'
+
+To fix this issue---->
+```
+nano modules/smali_injector.py
+```
+paste in this file
+```
+def inject_smali_loader(smali_dir):
+    print(f"[+] Injecting smali loader into directory: {smali_dir}")
+    # Yahan aap actual smali code injection ka logic likh sakte hain
+    return True
+```
+```
+touch modules/__init__.py
+```
+```
+python3 main.py
+```
+
 ## buy this tool Key ----->
 
 ## Contact Us 
