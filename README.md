@@ -102,7 +102,9 @@ M NO -->
 80767 76188
 ```
 
-
-By CyberVansh-coder 😈😈
+<br>
+<p align="center">Made with ❤️ By <a CyberVansh-coder/
+">D3VL</a></p>
+<p align="center" style="font-size: 8px">v1.1.2 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Credit!</a></p>
 
 
