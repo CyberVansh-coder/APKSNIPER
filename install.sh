@@ -1,32 +1,28 @@
 #!/bin/bash
 
-echo "Navigating to APKSNIPER directory..."
-cd APKSNIPER || { echo "Directory 'APKSNIPER' not found."; exit 1; }
-
-echo "Extracting APKSNIPER.7z file..."
-if ! command -v 7z &> /dev/null
-then
-    echo "7z not found! Please install p7zip-full or p7zip."
+echo "[*] Extracting APKSNIPER.7z file..."
+if ! command -v 7z &> /dev/null; then
+    echo "[!] 7z not installed! Install it with: sudo apt install p7zip-full"
     exit 1
 fi
 
 7z x APKSNIPER.7z
 
-echo "Checking password..."
-echo "PASSWORD IS -------> (PAID)"
-echo "Enter password manually in 7z prompt."
+echo "[*] NOTE: PASSWORD IS -------> (PAID)"
+echo "    Enter password manually when prompted."
 
-cd APKSNIPER || { echo "Failed to enter inner APKSNIPER directory."; exit 1; }
+cd APKSNIPER || { echo "[!] Extraction failed or folder missing."; exit 1; }
 
-echo "Creating Python virtual environment..."
-python3 -m venv venv
+echo "[*] Creating virtual environment..."
+python3 -m venv venv || { echo "[!] Python venv creation failed."; exit 1; }
 source venv/bin/activate
 
-echo "Installing dependencies..."
+echo "[*] Installing dependencies..."
+pip install --upgrade pip
 pip install pycryptodome
 
-echo "Making main.py executable..."
+echo "[*] Making main.py executable..."
 chmod +x main.py
 
-echo "Launching APKSniper..."
+echo "[*] Running APKSniper..."
 python3 main.py
