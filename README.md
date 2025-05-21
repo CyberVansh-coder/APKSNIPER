@@ -57,12 +57,14 @@ git clone https://github.com/your-username/APKSNIPER.git && cd APKSNIPER && 7z x
 ```
 
 ## Troubleshooting
+![Video Player Screenshot](https://github.com/CyberVansh-coder/APKSNIPER/blob/834438dcc121054ec6aaff0ae2ddc8f83521353c/Screenshot_20250521-112651_Termux.jpg)
 ### ModuleNotFoundError: No module named 'modules.smali_injector'
 
 To fix this issue---->
 ```
 nano modules/smali_injector.py
 ```
+![Video Player Screenshot](https://github.com/CyberVansh-coder/APKSNIPER/blob/834438dcc121054ec6aaff0ae2ddc8f83521353c/Screenshot_20250521-112725_Termux.jpg)
 paste in this file
 ```
 def inject_smali_loader(smali_dir):
