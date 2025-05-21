@@ -5,7 +5,7 @@
 ## Screenshot
 ![Video Player Screenshot](https://github.com/CyberVansh-coder/APKSNIPER/blob/3a40ed9bdd98954782f4a24a75ceee7e6bbff169/Screenshot_20250521-001020_Video%20Player.jpg)
 
-## Features of AndroRAT 
+## Disclaimer 
 
 > **Warning**: This tool is intended for educational and ethical penetration testing only. Misuse of this tool is strictly prohibited.
 
