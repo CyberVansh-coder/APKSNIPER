@@ -53,6 +53,7 @@ python3 main.py
 ```
 ## One Cmd Installation 
 ```
+chmod +x install.sh
 bash install.sh
 ```
 
