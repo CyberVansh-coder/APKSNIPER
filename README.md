@@ -111,6 +111,6 @@ notvansh6@gmail.com
 <br>
 <p align="center">Made with ❤️ By CyberVansh-coder <a /
 "></a></p>
-<p align="center" style="font-size: 8px">v1.1.2 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Credit!</a></p>
+<p align="center" style="font-size: 8px">v5.5 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Credit!</a></p>
 
 
