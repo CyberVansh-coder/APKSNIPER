@@ -54,7 +54,6 @@ python3 main.py
 ## One Cmd Installation 
 ```
 git clone https://github.com/CyberVansh-coder/APKSNIPER.git && cd APKSNIPER && chmod +x install.sh && ./install.sh
-
 ```
 
 ## Troubleshooting
