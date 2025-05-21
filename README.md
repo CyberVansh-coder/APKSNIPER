@@ -103,7 +103,7 @@ M NO -->
 ```
 
 <br>
-<p align="center">Made with ❤️ By <a CyberVansh-coder/
+<p align="center">Made with ❤️ By CyberVansh-coder <a /
 ">D3VL</a></p>
 <p align="center" style="font-size: 8px">v1.1.2 <a href="https://github.com/CyberVansh-coder/APKSNIPER">Credit!</a></p>
 
