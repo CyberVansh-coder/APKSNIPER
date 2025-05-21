@@ -77,7 +77,8 @@ touch modules/__init__.py
 ```
 python3 main.py
 ```
-## _This tool is tested on_
+**This Tool Is Tested On:**
+
 * **Linux:**
 	+ Ubuntu
 	+ Linux Mint
@@ -89,7 +90,6 @@ python3 main.py
 	+ Windows 11
 * **Mobile:**
 	+ Termux (Android)
-
 
 ## buy this tool Key ----->
 
